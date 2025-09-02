@@ -2,6 +2,12 @@
 
 A comprehensive Playwright testing project for web automation.
 
+## Recent Updates
+
+- ✅ Added advanced test cases
+- ✅ Improved documentation
+- ✅ Added npm scripts for easier testing
+
 ## Features
 
 - Cross-browser testing (Chromium, Firefox, WebKit)
